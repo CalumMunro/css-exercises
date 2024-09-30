@@ -1,0 +1,19 @@
+#blueAndBig {
+    color:blue;
+    font-size: 36px;
+}
+
+#greenAndThick {
+    background-color:lightgreen;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.oddElements {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.biggerFont {
+    font-size: 24px;
+}
